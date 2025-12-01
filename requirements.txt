@@ -1,0 +1,9 @@
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+datasets
+pypdf  # Pour extraire le texte du PDF
+torch  # Nécessaire pour les modèles basés sur PyTorch
+numpy  # Utilisé pour manipuler les données dans FAISS
+google-generativeai  # Pour utiliser l'API Gemini
